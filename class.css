@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    width: 90%;
+}
+
+.cards {
+    display: flex;
+    margin: 20px 10px;
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 20px;
+    width: 220px;
+}
